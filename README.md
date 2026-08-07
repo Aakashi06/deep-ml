@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**11** solved · 11 problems · 0 labs · 0 math
+**15** solved · 13 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,8 +14,10 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Average per group](https://www.deep-ml.com/problems/1108) | easy | 2026-07-21 | [solution](problems/1108-average-per-group) |
 | [Count rows per group](https://www.deep-ml.com/problems/1107) | easy | 2026-07-21 | [solution](problems/1107-count-rows-per-group) |
+| [Create and Inspect a Tensor](https://www.deep-ml.com/problems/1220) | easy | 2026-08-07 | [solution](problems/1220-create-and-inspect-a-tensor) |
 | [Filter rows with WHERE](https://www.deep-ml.com/problems/1103) | easy | 2026-07-21 | [solution](problems/1103-filter-rows-with-where) |
 | [Remove duplicates with DISTINCT](https://www.deep-ml.com/problems/1105) | easy | 2026-07-21 | [solution](problems/1105-remove-duplicates-with-distinct) |
+| [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/1221) | easy | 2026-08-07 | [solution](problems/1221-reshape-and-transpose-a-tensor) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-04-06 | [solution](problems/0003-reshape-matrix) |
 | [SELECT all rows](https://www.deep-ml.com/problems/1101) | easy | 2026-07-21 | [solution](problems/1101-select-all-rows) |
 | [Select specific columns](https://www.deep-ml.com/problems/1102) | easy | 2026-07-21 | [solution](problems/1102-select-specific-columns) |
@@ -23,6 +25,13 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Top N with LIMIT](https://www.deep-ml.com/problems/1106) | easy | 2026-07-21 | [solution](problems/1106-top-n-with-limit) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-04-06 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-07-21 | [solution](problems/1109-your-first-join) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-08-07 | [solution](math/0001-derivatives-and-gradients) |
+| [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-08-07 | [solution](math/0005-gradient-descent-updates) |
 
 ---
 

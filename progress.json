@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T00:58:17.300Z",
+  "generated_at": "2026-09-27T00:58:19.158Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -143,6 +143,54 @@
       "last_pushed_at": "2026-07-21T16:57:15.638Z",
       "language": "sql",
       "lines": 4
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-08-07T11:02:53.286Z",
+      "last_pushed_at": "2026-08-07T11:02:53.286Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-08-07T11:09:20.351Z",
+      "last_pushed_at": "2026-08-07T11:09:20.351Z"
+    },
+    "problem:1220": {
+      "kind": "problem",
+      "id": "1220",
+      "title": "Create and Inspect a Tensor",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1220",
+      "path": "problems/1220-create-and-inspect-a-tensor",
+      "first_solved_at": "2026-08-07T11:27:02.866Z",
+      "last_pushed_at": "2026-08-07T11:27:02.866Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:1221": {
+      "kind": "problem",
+      "id": "1221",
+      "title": "Reshape and Transpose a Tensor",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1221",
+      "path": "problems/1221-reshape-and-transpose-a-tensor",
+      "first_solved_at": "2026-08-07T11:31:16.567Z",
+      "last_pushed_at": "2026-08-07T11:31:16.567Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
