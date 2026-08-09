@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T00:58:19.158Z",
+  "generated_at": "2026-09-27T00:58:20.665Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -191,6 +191,32 @@
       "last_pushed_at": "2026-08-07T11:31:16.567Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:1117": {
+      "kind": "problem",
+      "id": "1117",
+      "title": "Values Appearing Three or More Times Consecutively",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1117",
+      "path": "problems/1117-values-appearing-three-or-more-times-consecutively",
+      "first_solved_at": "2026-08-09T13:54:51.085Z",
+      "last_pushed_at": "2026-08-09T13:54:51.085Z",
+      "language": "sql",
+      "lines": 7
+    },
+    "problem:1222": {
+      "kind": "problem",
+      "id": "1222",
+      "title": "Gradient of a Square with Autograd",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1222",
+      "path": "problems/1222-gradient-of-a-square-with-autograd",
+      "first_solved_at": "2026-08-09T13:58:44.618Z",
+      "last_pushed_at": "2026-08-09T13:58:44.618Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
