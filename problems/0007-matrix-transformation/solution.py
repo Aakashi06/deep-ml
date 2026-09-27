@@ -10,5 +10,4 @@ def transform_matrix(A: list[list[int|float]], T: list[list[int|float]], S: list
 		return -1
  
 	transformed_matrix = np.linalg.inv(T) @ A @ S
-
 	return transformed_matrix
